@@ -1,4 +1,4 @@
-module github.com/yourusername/fabric-go
+module github.com/blorby/fabric-go
 
 go 1.21
 
